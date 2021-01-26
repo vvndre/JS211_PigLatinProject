@@ -8,14 +8,14 @@
 
 ### Today's Checklist
 
-1. Fork and Clone [Pig Latin Repo](https://github.com/AustinCodingAcademy/JS211_PigLatinProject.git)
+1. Fork and clone [Pig Latin Repo](https://github.com/AustinCodingAcademy/JS211_PigLatinProject.git)
 1. Ensure you have installed all dependencies/packages: `npm i`
-1. Look at the Unit Test, see what is being called, passed as input arguments, and what the expected result are.
+1. Look at the Unit Test, see what is being called, passed as input arguments, and what the expected results are.
 1. Ensure you know how to run the unit test:
     * `npm test main.js`
 1. Use a whiteboard to work out a solution to building the Pig Latin program
-1. Translate the broad ideas to psuedo code
-1. Convert the psuedo code to real JavaScript Code
+1. Translate the broad ideas to pseudo code
+1. Convert the pseudo code to real JavaScript Code
 1. Type into your text editor the JavaScript code you've come up with one step at a time
 1. Work through your bugs.
 1. Use `node main.js` to run the game
@@ -24,7 +24,7 @@
 ### Hints
 
 1. Run your unit tests first!!
-1. Use [repl.it](https://www.repl.it) to write the solution code first. (its a faster environment vs using the `node main.js` command over and over again.)
+1. Use [repl.it](https://www.repl.it) to write the solution code first. (it's a faster environment vs using the `node main.js` command over and over again.)
 1. Read the comments in `main.js`
 1. Use the [JS Docs at W3S](https://www.w3schools.com/jsref/jsref_split.asp)
 1. Push yourself further.
@@ -100,12 +100,12 @@ example `node 01week/rockPaperScissors.js`
 
 ### Running Tests
 
-Tests are a great way to make sure you code works the way you planned it would,
+Tests are a great way to make sure your code works the way you planned it would,
 and to make sure you don't break something in the future. We will be using them
 to test our understanding of the lesson. It's also our main way to assign grades
 for an assignment.
 
-To run a the tests on a file run `npm test path/to/file.js`, etc.
+To run the tests on a file run `npm test path/to/file.js`, etc.
 
 ### Running the Linter
 
